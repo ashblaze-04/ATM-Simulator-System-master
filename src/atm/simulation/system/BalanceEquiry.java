@@ -22,7 +22,7 @@ class BalanceEnquiry extends JFrame implements ActionListener {
         JLabel l3 = new JLabel(i3);
         l3.setBounds(0, 0, 960, 1080);
         add(l3);
-
+        //hacktoberfest
         l1 = new JLabel();
         l1.setForeground(Color.WHITE);
         l1.setFont(new Font("System", Font.BOLD, 16));
